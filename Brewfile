@@ -1,6 +1,7 @@
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
+brew "as-tree"
 brew "bat"
 brew "clang-format"
 brew "coreutils"
