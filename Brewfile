@@ -76,6 +76,7 @@ mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Pixelmator Pro", id: 1289583905
 mas "RAW Power", id: 1157116444
+mas "Streaks", id: 963034692
 mas "The Unarchiver", id: 425424353
 mas "Todoist", id: 585829637
 mas "WireGuard", id: 1451685025
