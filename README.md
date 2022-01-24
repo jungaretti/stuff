@@ -20,3 +20,8 @@ cd stuff-macos
 
 ./install.ps1
 ```
+
+### Drivers
+
+- [Fatal1ty B450](https://www.asrock.com/MB/AMD/Fatal1ty%20B450%20Gaming-ITXac/)
+- [RTX 2060](https://www.nvidia.com/Download/index.aspx)
