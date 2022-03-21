@@ -23,6 +23,7 @@ openssh
 patch
 pkgconf
 python
+ripgrep
 sudo
 texinfo
 vim
