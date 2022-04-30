@@ -1,3 +1,3 @@
 #!/bin/sh
 
-brew bundle dump --no-lock --force
+brew bundle dump --file Brewfile --no-lock --force

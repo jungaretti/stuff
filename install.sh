@@ -1,3 +1,3 @@
 #!/bin/sh
 
-brew bundle
+brew bundle --file Brewfile
