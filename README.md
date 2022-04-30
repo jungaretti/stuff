@@ -23,3 +23,9 @@ cd stuff-macos
 
 ./install.sh
 ```
+
+## Usage
+
+- `install.sh` installs brews from `Brewfile`
+- `export.sh` saves your brews to `Brewfile`
+- `cleanup.sh` matches your brews to `Brewfile`
