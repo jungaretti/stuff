@@ -35,6 +35,7 @@ brew "typescript"
 brew "wget"
 brew "yarn"
 brew "youtube-dl"
+cask "1password"
 cask "appcleaner"
 cask "brave-browser"
 cask "daisydisk"
@@ -59,7 +60,6 @@ cask "spotify"
 cask "transmission"
 cask "visual-studio-code"
 cask "vlc"
-mas "1Password 7", id: 1333542190
 mas "Affinity Designer", id: 824171161
 mas "Affinity Photo", id: 824183456
 mas "Affinity Publisher", id: 881418622
