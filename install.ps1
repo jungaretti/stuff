@@ -1,15 +1,13 @@
 $ErrorActionPreference = "Stop"
 
-# Install essentials
-winget install vim.vim
 winget install Git.Git
 winget install Microsoft.VisualStudioCode
-winget install Microsoft.PowerShell
 winget install Microsoft.WindowsTerminal
-winget install WireGuard.WireGuard
+winget install Microsoft.PowerShell
 
-# Install favorites
 winget install Mozilla.Firefox
 winget install Discord.Discord
 winget install Spotify.Spotify
+
 winget install Valve.Steam
+winget install Ubisoft.Connect
