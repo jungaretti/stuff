@@ -1,0 +1,60 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+brew "as-tree"
+brew "azure-cli"
+brew "bat"
+brew "clang-format"
+brew "coreutils"
+brew "deno"
+brew "fd"
+brew "fnm"
+brew "gh"
+brew "git"
+brew "gnupg"
+brew "go"
+brew "loc"
+brew "mas"
+brew "neofetch"
+brew "prettier"
+brew "rclone"
+brew "restic"
+brew "ripgrep"
+brew "rsync"
+brew "sd"
+brew "shfmt"
+brew "speedtest-cli"
+brew "tokei"
+brew "topgrade"
+brew "tree"
+brew "typescript"
+brew "wget"
+brew "yarn"
+cask "1password"
+cask "appcleaner"
+cask "brave-browser"
+cask "daisydisk"
+cask "docker"
+cask "dotnet-sdk"
+cask "firefox"
+cask "gitahead"
+cask "istat-menus"
+cask "iterm2"
+cask "licecap"
+cask "monodraw"
+cask "mos"
+cask "obs"
+cask "powershell"
+cask "spotify"
+cask "visual-studio-code"
+# mas "Amphetamine", id: 937984704
+# mas "Keynote", id: 409183694
+# mas "Microsoft Excel", id: 462058435
+# mas "Microsoft PowerPoint", id: 462062816
+# mas "Microsoft Word", id: 462054704
+# mas "Numbers", id: 409203825
+# mas "Pages", id: 409201541
+# mas "Pixelmator Pro", id: 1289583905
+# mas "The Unarchiver", id: 425424353
+# mas "Todoist", id: 585829637
+# mas "Xcode", id: 497799835
