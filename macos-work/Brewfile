@@ -48,14 +48,7 @@ cask "obs"
 cask "powershell"
 cask "spotify"
 cask "visual-studio-code"
-# mas "Amphetamine", id: 937984704
-# mas "Keynote", id: 409183694
-# mas "Microsoft Excel", id: 462058435
-# mas "Microsoft PowerPoint", id: 462062816
-# mas "Microsoft Word", id: 462054704
-# mas "Numbers", id: 409203825
-# mas "Pages", id: 409201541
-# mas "Pixelmator Pro", id: 1289583905
-# mas "The Unarchiver", id: 425424353
-# mas "Todoist", id: 585829637
-# mas "Xcode", id: 497799835
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
