@@ -44,13 +44,22 @@ cask "istat-menus"
 cask "iterm2"
 cask "kap"
 cask "microsoft-edge"
+cask "microsoft-teams"
 cask "monodraw"
 cask "mos"
 cask "obs"
 cask "powershell"
+cask "slack"
 cask "spotify"
 cask "visual-studio-code"
+mas "Amphetamine", id: 937984704
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
+mas "Microsoft Excel", id: 462058435
+mas "Microsoft PowerPoint", id: 462062816
+mas "Microsoft Word", id: 462054704
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
+mas "Pixelmator Pro", id: 1289583905
+mas "The Unarchiver", id: 425424353
+mas "Todoist", id: 585829637
