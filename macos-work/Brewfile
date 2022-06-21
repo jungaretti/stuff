@@ -14,6 +14,7 @@ brew "gh"
 brew "git"
 brew "gnupg"
 brew "go"
+brew "jq"
 brew "loc"
 brew "mas"
 brew "neofetch"
@@ -25,6 +26,7 @@ brew "ripgrep"
 brew "rsync"
 brew "sd"
 brew "shfmt"
+brew "socat"
 brew "speedtest-cli"
 brew "tokei"
 brew "topgrade"
@@ -62,3 +64,4 @@ mas "Microsoft Word", id: 462054704
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "The Unarchiver", id: 425424353
+mas "Todoist", id: 585829637
