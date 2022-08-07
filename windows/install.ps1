@@ -8,6 +8,7 @@ winget install Microsoft.PowerShell
 winget install Mozilla.Firefox
 winget install Discord.Discord
 winget install Spotify.Spotify
+winget install Rufus.Rufus
 
 winget install Valve.Steam
 winget install Ubisoft.Connect
