@@ -6,6 +6,7 @@ brew "python@3.10", link: true
 brew "azure-cli"
 brew "b2-tools"
 brew "bat"
+brew "python@3.9", link: false
 brew "clang-format"
 brew "coreutils"
 brew "deno"
@@ -21,7 +22,6 @@ brew "mas"
 brew "neofetch"
 brew "netlify-cli"
 brew "prettier"
-brew "python@3.9", link: false
 brew "rclone"
 brew "restic"
 brew "ripgrep"
