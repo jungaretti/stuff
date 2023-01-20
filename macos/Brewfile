@@ -11,14 +11,13 @@ brew "clang-format"
 brew "coreutils"
 brew "deno"
 brew "fd"
-brew "ffmpeg"
 brew "fnm"
 brew "gh"
 brew "git"
 brew "gnupg"
 brew "go"
-brew "guetzli"
 brew "imagemagick"
+brew "make"
 brew "mas"
 brew "neofetch"
 brew "netlify-cli"
@@ -35,6 +34,7 @@ brew "tokei"
 brew "topgrade"
 brew "tree"
 brew "typescript"
+brew "vercel-cli"
 brew "wget"
 brew "yarn"
 brew "youtube-dl"
@@ -58,7 +58,6 @@ cask "monodraw"
 cask "notion"
 cask "obs"
 cask "powershell"
-cask "scroll-reverser"
 cask "signal"
 cask "sketch"
 cask "spotify"
@@ -75,8 +74,11 @@ mas "Compressor", id: 424390742
 mas "Debit & Credit", id: 882637653
 mas "Deliveries", id: 290986013
 mas "Final Cut Pro", id: 424389933
+mas "Flighty", id: 1358823008
 mas "GarageBand", id: 682658836
+mas "GoodNotes", id: 1444383602
 mas "Keynote", id: 409183694
+mas "MacFamilyTree 10", id: 1567970985
 mas "Magnet", id: 441258766
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft PowerPoint", id: 462062816
