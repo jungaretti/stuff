@@ -1,3 +1,0 @@
-as-tree
-paru
-visual-studio-code-bin
