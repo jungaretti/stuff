@@ -57,6 +57,8 @@ cask "slack"
 cask "spotify"
 cask "visual-studio-code"
 mas "Amphetamine", id: 937984704
+mas "Compressor", id: 424390742
+mas "Final Cut Pro", id: 424389933
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Magnet", id: 441258766
