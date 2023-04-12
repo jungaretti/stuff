@@ -31,7 +31,6 @@ brew "make"
 brew "mas"
 brew "miniserve"
 brew "neofetch"
-brew "neovim"
 brew "netlify-cli"
 brew "prettier"
 brew "python@3.9", link: false
