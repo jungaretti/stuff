@@ -2,10 +2,6 @@
 
 Apps and tools for my computers.
 
-## Arch Linux
-
-`base/pkglist.txt` is a bare-minimum list of packages for Arch Linux. Use it when installing Arch or in case of emergency.
-
 ## macOS
 
 I use [Homebrew](https://github.com/Homebrew/brew) to install my apps and tools. It's not perfect, but it's the best option out there.
@@ -34,3 +30,7 @@ Use `./install.sh` to install apps and tools on macOS. **This will take quite a 
 ### Installation
 
 Use `./install.ps1` to install apps and tools on Windows. **This script requires lots of input.**
+
+## Arch Linux
+
+`base/pkglist.txt` is a bare-minimum list of packages for Arch Linux. Use it when installing Arch or in case of emergency.
