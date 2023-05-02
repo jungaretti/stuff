@@ -7,6 +7,7 @@ brew "python@3.10", link: false
 brew "azure-cli"
 brew "b2-tools"
 brew "bat"
+brew "bottom"
 brew "clang-format"
 brew "gnutls"
 brew "colima"
