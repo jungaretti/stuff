@@ -1,4 +1,6 @@
 #!/bin/sh
 
-cargo install blindfold
-cargo install tokei
+CARGOFILE="$(pwd)/cargo.txt"
+echo "Reading from $CARGOFILE"
+
+cat $CARGOFILE | xargs cargo install
