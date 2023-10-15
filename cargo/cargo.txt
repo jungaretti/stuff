@@ -2,3 +2,4 @@ bat
 bottom
 rnr
 tokei
+sd
