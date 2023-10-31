@@ -1,5 +1,5 @@
 bat
-blindfold
 bottom
 rnr
 tokei
+sd
