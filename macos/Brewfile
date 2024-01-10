@@ -75,6 +75,7 @@ cask "sketch"
 cask "spotify"
 cask "steam"
 cask "transmission"
+cask "utm"
 cask "visual-studio-code"
 cask "zoom"
 mas "Affinity Designer", id: 824171161
