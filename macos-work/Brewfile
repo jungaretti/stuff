@@ -60,6 +60,9 @@ cask "powershell"
 cask "spotify"
 cask "visual-studio-code"
 cask "zoom"
+mas "Affinity Designer", id: 824171161
+mas "Affinity Photo", id: 824183456
+mas "Affinity Publisher", id: 881418622
 mas "Amphetamine", id: 937984704
 mas "Compressor", id: 424390742
 mas "Final Cut Pro", id: 424389933
