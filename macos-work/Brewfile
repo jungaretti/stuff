@@ -62,6 +62,7 @@ cask "obsidian"
 cask "optimus-player"
 cask "powershell"
 cask "spotify"
+cask "todoist"
 cask "visual-studio-code"
 cask "zoom"
 mas "Affinity Designer", id: 824171161
