@@ -77,6 +77,7 @@ cask "transmission"
 cask "utm"
 cask "visual-studio-code"
 cask "zoom"
+mas "Adobe Lightroom", id: 1451544217
 mas "Affinity Designer", id: 824171161
 mas "Affinity Photo", id: 824183456
 mas "Affinity Publisher", id: 881418622
