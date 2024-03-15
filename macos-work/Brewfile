@@ -8,6 +8,7 @@ brew "as-tree"
 brew "azure-cli"
 brew "bat"
 brew "bottom"
+brew "python@3.12"
 brew "clang-format"
 brew "colima"
 brew "coreutils"
@@ -27,7 +28,6 @@ brew "make"
 brew "mas"
 brew "miniserve"
 brew "neofetch"
-brew "python@3.12"
 brew "r"
 brew "rclone"
 brew "restic"
@@ -78,6 +78,7 @@ mas "Microsoft Outlook", id: 985367838
 mas "Microsoft PowerPoint", id: 462062816
 mas "Microsoft Word", id: 462054704
 mas "Numbers", id: 409203825
+mas "OneDrive", id: 823766827
 mas "Pages", id: 409201541
 mas "Pixelmator Pro", id: 1289583905
 mas "The Unarchiver", id: 425424353
